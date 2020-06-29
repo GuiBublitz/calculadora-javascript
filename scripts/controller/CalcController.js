@@ -4,6 +4,18 @@ class CalcController{
 
 		this._displayCalc = "0";
 		this._currentDate;
+		this.initialize();
+	}
+
+	initialize(){
+
+		let displayCalcEl = document.querySelector("#display");
+		let dateEl = document.querySelector("#data");
+		let timeEl = document.querySelector("#hora");
+
+		displayCalcEl.innerHTML = "2081";
+		dateEl.innerHTML = "29/06/2020";
+		timeEl.innerHTML = "10:16";
 
 	}
 
