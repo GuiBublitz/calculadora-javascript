@@ -30,7 +30,7 @@ class CalcController{
 
 			btn.addEventListener('click', e =>{
 
-				console.log(btn);
+				console.log(btn.className.baseVal.replace("btn-",""));
 
 			})
 
