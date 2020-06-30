@@ -2,7 +2,5 @@
 
 [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
 
-Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
-
-### Projeto
-![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33)
+Este projeto teve como objetivo programar toda parte de javaScript de uma calculadora de forma organizada e 100% otimizada a partir do zero.
+Aula disponibilizada no curso de javaScript pela Hcode treinamento!
